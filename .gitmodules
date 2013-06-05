@@ -7,3 +7,6 @@
 [submodule "modules/content"]
 	path = modules/content
 	url = git@github.com:PortNumber53/kohana-content.git
+[submodule "modules/databasex"]
+	path = modules/databasex
+	url = git@github.com:PortNumber53/kohana-databasex.git
