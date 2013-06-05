@@ -10,3 +10,6 @@
 [submodule "modules/databasex"]
 	path = modules/databasex
 	url = git@github.com:PortNumber53/kohana-databasex.git
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/kohana/database.git
