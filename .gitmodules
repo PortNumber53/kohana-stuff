@@ -4,3 +4,6 @@
 [submodule "modules/common"]
 	path = modules/common
 	url = git@github.com:PortNumber53/kohana-common.git
+[submodule "modules/content"]
+	path = modules/content
+	url = git@github.com:PortNumber53/kohana-content.git
