@@ -1,3 +1,6 @@
 [submodule "system"]
 	path = system
 	url = git@github.com:PortNumber53/kohana-core.git
+[submodule "modules/common"]
+	path = modules/common
+	url = git@github.com:PortNumber53/kohana-common.git
