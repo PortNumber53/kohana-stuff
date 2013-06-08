@@ -16,3 +16,6 @@
 [submodule "modules/image"]
 	path = modules/image
 	url = git://github.com/kohana/image.git
+[submodule "modules/cachelayer"]
+	path = modules/cachelayer
+	url = git@github.com:PortNumber53/CacheLayer.git
