@@ -19,3 +19,6 @@
 [submodule "modules/cachelayer"]
 	path = modules/cachelayer
 	url = git@github.com:PortNumber53/CacheLayer.git
+[submodule "modules/form"]
+	path = modules/form
+	url = git@github.com:PortNumber53/kohana-form.git
