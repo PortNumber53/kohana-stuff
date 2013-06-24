@@ -22,3 +22,6 @@
 [submodule "modules/form"]
 	path = modules/form
 	url = git@github.com:PortNumber53/kohana-form.git
+[submodule "modules/shoppingcart"]
+	path = modules/shoppingcart
+	url = git@github.com:PortNumber53/kohana-shopping-cart.git
