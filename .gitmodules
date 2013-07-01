@@ -25,3 +25,6 @@
 [submodule "modules/shoppingcart"]
 	path = modules/shoppingcart
 	url = git@github.com:PortNumber53/kohana-shopping-cart.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git@github.com:PortNumber53/orm.git
