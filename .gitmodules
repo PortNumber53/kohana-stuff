@@ -28,3 +28,6 @@
 [submodule "modules/orm"]
 	path = modules/orm
 	url = git@github.com:PortNumber53/orm.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = git@github.com:PortNumber53/cache.git
