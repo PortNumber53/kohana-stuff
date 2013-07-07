@@ -34,3 +34,9 @@
 [submodule "modules/social"]
 	path = modules/social
 	url = git@github.com:PortNumber53/kohana-socialnetwork.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = https://github.com/kohana/unittest.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = https://github.com/PortNumber53/pagination.git
