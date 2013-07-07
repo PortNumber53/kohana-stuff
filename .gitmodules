@@ -37,3 +37,6 @@
 [submodule "modules/unittest"]
 	path = modules/unittest
 	url = https://github.com/kohana/unittest.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git@github.com:PortNumber53/pagination.git
