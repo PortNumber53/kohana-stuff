@@ -40,3 +40,6 @@
 [submodule "modules/auth"]
 	path = modules/auth
 	url = git@github.com:PortNumber53/auth.git
+[submodule "modules/facebook"]
+	path = modules/facebook
+	url = https://github.com/facebook/facebook-php-sdk.git
