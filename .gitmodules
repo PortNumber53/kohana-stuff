@@ -43,3 +43,6 @@
 [submodule "modules/facebook"]
 	path = modules/facebook
 	url = https://github.com/facebook/facebook-php-sdk.git
+[submodule "modules/urlify"]
+	path = modules/urlify
+	url = git@github.com:PortNumber53/urlify.git
