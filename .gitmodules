@@ -42,7 +42,7 @@
 	url = git@github.com:PortNumber53/auth.git
 [submodule "modules/facebook"]
 	path = modules/facebook
-	url = https://github.com/facebook/facebook-php-sdk.git
+	url = git@github.com:PortNumber53/facebook-php-sdk.git
 [submodule "modules/urlify"]
 	path = modules/urlify
 	url = git@github.com:PortNumber53/urlify.git
