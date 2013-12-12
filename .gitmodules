@@ -46,3 +46,6 @@
 [submodule "modules/urlify"]
 	path = modules/urlify
 	url = git@github.com:PortNumber53/urlify.git
+[submodule "modules/minion"]
+	path = modules/minion
+	url = git@github.com:PortNumber53/minion.git
